@@ -4,9 +4,9 @@ highlighter:      rouge
 
 # Setup
 title:            san jin
-tagline:          'A Jekyll theme'
+tagline:          '三金的个人博客'
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io/hydeout
+url:              https://nahajub.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
