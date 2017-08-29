@@ -11,8 +11,8 @@ url:              https://nahajub.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'nahajub'
+  url:            
 
 paginate:         5
 
@@ -22,7 +22,7 @@ plugins:
   - jekyll-paginate
 
 # Custom vars
-version:            3.4.1
+version:            1.0.0
 sidebar_home_link:  true
 github:
   repo:             https://github.com/nahajub/nahajub.github.io
